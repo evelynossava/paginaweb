@@ -1,0 +1,143 @@
+h1 {
+    	color: #FFFFFF;
+    	font-size: 100px;
+    	font-family: fantasy;
+      text-shadow: 0 0 0.2em #F36688, 0 0 0.2em #F36688,
+    0 0 0.2em #F36688
+    }
+
+    ul{
+    	width: 100%;
+  		max-width: 1000px;
+  		margin: auto;
+    }
+    .menu li {
+  		display: inline;
+
+  	}
+
+  	.menu li{
+  		display: inline-block;
+  		font-family: Arial;
+        font-size: 20px;
+        text-decoration: none;
+        float: center;
+        padding: 15px;
+        background-color: black;
+        color: #fff;
+
+
+  	}
+
+  	.menu li a:hover {
+  		
+        margin-top: -2;
+        padding-bottom: 20px;]
+  	}
+
+
+ 
+
+.img{
+	height: 180px;
+	width: 180px;
+	border-radius: 50%;
+
+
+}
+
+.contenido{
+	width: 800px; 
+	margin: 0 auto;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+
+}
+#boton{
+  display: inline-block;
+      font-family: fantasy;
+        font-size: 30px;
+        text-decoration: none;
+        float: center;
+        padding: 0px;
+        Background-size: 100px;
+        background-color: #fff;
+        color: #000001;
+
+
+
+
+}
+
+
+button{
+	width: 180px;
+	height: 80px;
+	border: 5px solid #F8A1BF;
+	font-size: 18px;
+	border-radius: 4px;
+	transition: .6s;
+	overflow: hidden;
+  background-color:#fff ;
+  
+}
+
+  }
+
+   #botones{
+       color: #FFFFFF;
+      font-size: 50px;
+      font-family: fantasy;
+      text-shadow: 0 0 0.1em #F8A1BF  , 0 0 0.2em #F8A1BF  ,
+    0 0 0.2em #F8A1BF  
+
+
+    }
+    
+    #titulo1{
+      color: #FFFFFF;
+      font-size: 65px;
+      font-family: fantasy;
+      text-shadow: 0 0 0.2em #F8A1BF  , 0 0 0.2em #F8A1BF  ,
+    0 0 0.2em #F8A1BF 
+
+
+    }
+    #visor_imagenes {
+      color: #FFF;
+      font-size: 60px;
+      font-family: fantasy;
+      text-align: center;
+      text-shadow: 0 0 0.2em #25ebf1, 0 0 0.2em #25ebf1,
+    0 0 0.2em #25ebf1
+  }
+    #Text_expli{
+       font-family:serif;
+      font-size: 30px;
+  }
+  #titulo2{
+      color: #FFFFFF;
+      font-size: 50px;
+      font-family: fantasy;
+      text-shadow: 0 0 0.2em #F8A1BF  , 0 0 0.2em #F8A1BF  ,
+    0 0 0.2em #F8A1BF 
+  }
+  #content-table{ border-collapse: collapse; margin: 25px 0; font-size: 1em; font-family: sans-serif;
+ min-width: 450px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15); }
+
+#content-table thead tr { background-color: #FF3377; color: #ffffff; text-align: middle; }
+#content-table th, .styled-table td { padding: 12px 15px; }
+#content-table tbody tr { border-bottom: 1px solid #dddddd; } 
+.styled-table tbody tr:nth-of-type(even) { background-color: #FF3377; } 
+#content-table tbody tr:last-of-type { border-bottom: 2px solid #dddddd; }
+
+#link{
+  color: #040303;
+      font-size: 30px;
+      font-family: fantasy;
+      text-shadow: 0 0 0.2em #F8A1BF  , 0 0 0.2em #F8A1BF  ,
+    0 0 0.2em #F8A1BF 
+}
+
+
+
